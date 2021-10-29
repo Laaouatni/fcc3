@@ -133,4 +133,8 @@ footer {
         margin-left: 1em;
         margin-right: 1em;
     }
+    aside {
+        max-height: 40%;
+        overflow: scroll;
+    }
 }
