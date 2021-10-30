@@ -100,6 +100,7 @@ code {
 aside {
     position: sticky;
     top: 0;
+    overflow-y: scroll;
 }
 
 footer {
