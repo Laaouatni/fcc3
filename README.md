@@ -5,6 +5,8 @@ questo è il quarto (4 su 5) progetto di FreeCodeCamp.org.
 
 per ottenere la certificazione **RESPONSIVE WEB DESIGN**!
 
+![Progetto FreeCodeCamp di Anas Laaouatni](https://i.ibb.co/Scnvm7z/2021-10-30-16-51-54.gif)
+
 ## Linguaggi Utilizzati:
 
 - HTML
