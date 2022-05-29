@@ -21,3 +21,6 @@ infatti il hosting è direttamente su github.io, se ti interessa clicca il [link
 ```laaouatni.github.io/fcc3```
 
 [1]: https://laaouatni.github.io/fcc3/
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=fcc3)
